@@ -62,7 +62,7 @@ export default class News extends Component {
         <div className="container my-4">
           {this.state.loading && <Spinner />}
           <div className="row">
-            {!this.state.loading &&this.state.articles&&
+            {!this.state.loading &&
               this.state.articles.map((element) => {
                 return (
                   <div className="col md-4" key={element.url}>
