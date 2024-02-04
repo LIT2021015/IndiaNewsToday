@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import NewsItem from "./NewsItem";
-import Cou from "./Cou";
+// import Cou from "./Cou";
 import Spinner from "./Spinner";
 
 export default class News extends Component {
@@ -57,7 +57,7 @@ export default class News extends Component {
     return (
       <>
         {/* <div className="container my-4"> */}
-          <Cou category={this.props.category} page={this.state.page} />
+          {/* <Cou category={this.props.category} page={this.state.page} /> */}
         {/* </div> */}
         <div className="container my-4">
           {this.state.loading && <Spinner />}
