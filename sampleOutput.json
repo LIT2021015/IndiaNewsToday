@@ -1,0 +1,102 @@
+{
+  "status": "ok",
+  "totalResults": 9,
+  "articles": [
+    {
+      "source": { "id": "la-gaceta", "name": "La Gaceta" },
+      "author": "La Gaceta",
+      "title": "En VIVO Argentina vs Croacia: Scaloni confirmó los titulares de la Selección",
+      "description": "Se enfrentan desde las 16, con transmisión de Canal 10, TV Pública, TyC Sports y DSports.",
+      "url": "https://www.lagaceta.com.ar/nota/973113/deportes/vivo-argentina-vs-croacia-scaloni-confirmo-titulares-seleccion.html",
+      "urlToImage": "https://img.lagaceta.com.ar/fotos/notas/2022/12/13/todo-listo-vestuario-seleccion-argentina-espera-jugadores-estadio-lusail-973113-142529.jpg",
+      "publishedAt": "2022-12-13T17:52:27.7738201Z",
+      "content": "14:48 hsEn la previa del partido semifinal ante Croacia, Lionel Scaloni confirmó el equipo titular de la Selección, que contará con Leandro Paredes en reemplazo de Lisandro Martínez.\r\nCon el ingreso … [+394 chars]"
+    },
+    {
+      "source": { "id": "lequipe", "name": "L'equipe" },
+      "author": "L'EQUIPE",
+      "title": "La ministre des Sports estime que Bernard Laporte ne peut pas continuer sa mission à la tête de la FFR",
+      "description": "Dans un communiqué, Amélie Oudéa-Castéra, la ministre des Sports, assure que les sanctions prononcées à l'encontre de Bernard Laporte font obstacle à la poursuite de sa mission à la tête de la Fédération Française de Rugby.",
+      "url": "https://www.lequipe.fr/Rugby/Actualites/La-ministre-des-sports-estime-que-bernard-laporte-ne-peut-pas-continuer-sa-mission-a-la-tete-de-la-ffr/1369929",
+      "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/bernard-laporte-et-amelie-oudea-castera-s-mantey-l-equipe/1500000001724283/0:0,1498:999-640-427-75/a3709.jpg",
+      "publishedAt": "2022-12-13T17:20:01+00:00",
+      "content": "Après la FFR puis World Rugby, c'est au tour de la ministre des Sports Amélie Oudéa-Castéra de réagir à la condamnation de Bernard Laporte à deux ans de prison avec sursis pour corruption dans le cad… [+1962 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-sa",
+        "name": "Google News (Saudi Arabia)"
+      },
+      "author": null,
+      "title": "مشاهدة مباراة الأرجنتين وكرواتيا في بث مباشر",
+      "description": "لا تفوت البث المباشر ومشاهدة مباراة الأرجنتين وكرواتيا في نصف نهائي كأس العالم FIFA قطر 2022™ حصرياً عبر beIN SPORTS وعلى beIN CONNECT.",
+      "url": "https://www.beinsports.com/ar/%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-fifa-%D9%82%D8%B7%D8%B1-2022/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-/2004601",
+      "urlToImage": "https://images.beinsports.com/ZbTF-BewJcKZLAhbAFYnzdVy07w=/670x424/smart/filters:watermark(https://assets.beinsports.com/picto-play.png,285,162,0)/4544845-33384Y8-preview.jpg",
+      "publishedAt": "2022-12-13T16:32:00+00:00",
+      "content": "لا تفوت البث المباشر ومشاهدة مباراة الأرجنتين وكرواتيا في نصف نهائي كأس العالم FIFA قطر 2022™ حصرياً عبر beIN SPORTS وعلى beIN CONNECT."
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "Bryan Fischer, RJ Young, Michael Cohen",
+      "title": "College Football: The FOX Sports 2022 All-America team",
+      "description": "After a college football season full of chaos, drama and fun, we're revealing out All-America picks.",
+      "url": "http://www.foxsports.com/stories/college-football/fox-sports-college-football-all-americans",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/12/1408/814/12.12.22_AllAmericans_Horizontal.jpg?ve=1&tl=1",
+      "publishedAt": "2022-12-13T13:57:58Z",
+      "content": "One of the most memorable and chaotic regular seasons in college football history has wrapped up and a select number of players rose above their peers, taking their performances to a level beyond the… [+4029 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Eugene Robinson",
+      "title": "This World Cup is thrilling. That’s a problem.",
+      "description": "The more exciting and engaging the tournament, the more effective it is at sportswashing Qatar's human rights abuses.",
+      "url": "https://www.washingtonpost.com/opinions/2022/12/12/world-cup-qatar-sportswashing-morocco/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FFW6Z7UUVFATBOGCYK7W7E6LEA.jpg&w=1440",
+      "publishedAt": "2022-12-12T22:43:58Z",
+      "content": "Comment on this story\r\nSoccers quadrennial World Cup, reaching its climactic stages this week in Qatar, demonstrates an inescapable, regrettable fact: Sportswashing, the use of athletic competition t… [+4677 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+      "urlToImage": null,
+      "publishedAt": "2022-12-01T18:52:49.4768049Z",
+      "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+    },
+    {
+      "source": { "id": "national-review", "name": "National Review" },
+      "author": "Caroline Downey",
+      "title": "Man Wins Elite Women’s Race at International Cyclocross Tournament",
+      "description": "Killips has an online blog, Estro Junkie, which he calls ‘a newsletter about the intersection of sports and queer theory.’",
+      "url": "https://www.nationalreview.com/news/man-wins-elite-womens-race-at-international-cyclocross-tournament/",
+      "urlToImage": "https://www.nationalreview.com/wp-content/uploads/2022/10/transgender-flag.jpg?fit=2057%2C1200",
+      "publishedAt": "2022-11-15T02:37:29Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "☄️ NEW ANIME JUST DROPPED ☄️",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/289173-ja-vs-zion-anime",
+      "urlToImage": null,
+      "publishedAt": "2022-11-14T22:07:16.2323649Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times https://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": null,
+      "publishedAt": "2022-08-30T16:37:43.8583104Z",
+      "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+    }
+  ]
+}
